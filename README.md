@@ -25,7 +25,7 @@ code developed by members of our laboratory.
 
 **Developer:** Eleftherios Tzanis, PhD - Post-doctoral Researcher  
 **Project:** Research Cosmos (ReCo): A self-configuring and self-extending agentic platform for biomedical research  
-**Code:** [ReCo](https://github.com/mariaexample/medical-rag](https://github.com/eltzanis/ReCo)  
+**Code:** [ReCo](https://github.com/eltzanis/ReCo)  
 **Language:** Python
 
 **Developer:** Eleftherios Tzanis, PhD - Post-doctoral Researcher  
@@ -35,7 +35,17 @@ code developed by members of our laboratory.
 
 **Developer:** Eleftherios Tzanis, PhD - Post-doctoral Researcher  
 **Project:** mAIstro: An open-source multi-agent system for automated end-to-end development of radiomics and deep learning models for medical imaging
-**Code:** [mAIstro](https://github.com/eltzanis/ReclAIm](https://github.com/eltzanis/mAIstro) 
+**Code:** [mAIstro](https://github.com/eltzanis/mAIstro) 
+**Language:** Python
+
+**Developer:** Konstantinos Vrettos, MD - PhD Student  
+**Project:** Synthetic T2*-weighted gradient echo from intermediate-weighted fat suppressed sequences of the knee
+**Code:** [IWtoGRE-cycleGAN](https://github.com/konstvr/IWtoGRE-cycleGAN)
+**Language:** Python
+
+**Developer:** Konstantinos Vrettos, MD - PhD Student  
+**Project:** GreenRAG: A modular framework for developing Retrieval-Augmented-Generators with monitoring of Energy usage and CO2 emissions
+**Code:** [GreenRAG](https://github.com/konstvr/GreenRAG)
 **Language:** Python
 
 
