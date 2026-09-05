@@ -23,6 +23,22 @@ radiomics, deep learning and generative AI.
 This page provides open-source implementations, research software and
 code developed by members of our laboratory.
 
+**Developer:** Eleftherios Tzanis, PhD - Post-doctoral Researcher  
+**Project:** Research Cosmos (ReCo): A self-configuring and self-extending agentic platform for biomedical research  
+**Code:** [ReCo](https://github.com/mariaexample/medical-rag](https://github.com/eltzanis/ReCo)  
+**Language:** Python
+
+**Developer:** Eleftherios Tzanis, PhD - Post-doctoral Researcher  
+**Project:** ReclAIm: A multi-agent system designed to evaluate the performance of medical image classification models, identify model degradation, and, when required, initiate fine-tuning procedures to restore accuracy  
+**Code:** [ReclAIm](https://github.com/eltzanis/ReclAIm) 
+**Language:** Python
+
+**Developer:** Eleftherios Tzanis, PhD - Post-doctoral Researcher  
+**Project:** mAIstro: An open-source multi-agent system for automated end-to-end development of radiomics and deep learning models for medical imaging
+**Code:** [mAIstro](https://github.com/eltzanis/ReclAIm](https://github.com/eltzanis/mAIstro) 
+**Language:** Python
+
+
 
 
 ## 🤝 Collaboration
